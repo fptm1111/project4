@@ -1,0 +1,3 @@
+venv/
+secondproject/settings.py
+secondproject/wsgi.py
